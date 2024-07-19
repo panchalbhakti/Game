@@ -1,0 +1,1 @@
+This project is a collection of three classic and user-friendly games - Tic-Tac-Toe, Snake Game, and Rock Paper Scissors - built using HTML, CSS, and JavaScript. This project highlights the versatility andcreativity achievable with web technologies.
