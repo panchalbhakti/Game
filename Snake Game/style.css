@@ -58,7 +58,7 @@
 }
 
 .food{
-    background: linear-gradient(rgb(187, 115, 115), rgb(179, 113, 179));
+    background: linear-gradient(rgb(187, 115, 115), rgb(183, 114, 183));
     /* border: .25vmin solid black; */
     border-radius: 8px;
 }
